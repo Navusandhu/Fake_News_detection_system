@@ -1,2 +1,7 @@
-Hello 
-Before executing download all files containg this folder and then it will merge into one. 
+*******  ******** ******** ********** ******** *******  ******** ******** ********** 
+
+IMPORT ALL THE FILES BEFORE EXECUTION AS MOST OF THE FILES ARE COMPRESSED AS PER GITHUB'S POLICIES.
+
+IT WILL NOT EXECUTE IF YOU IMPORT ONLY WITH ONE FILE. 
+
+*******  ******** ******** ********** ******** *******  ******** ******** **********
