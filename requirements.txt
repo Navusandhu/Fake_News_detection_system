@@ -1,0 +1,9 @@
+dill
+joblib
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+scikit_learn
+seaborn
