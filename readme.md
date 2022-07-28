@@ -1,6 +1,20 @@
 # Fake News classification
 
-## Initial Setup:
+## Before executing any files,Please download all files and extract accordingly.
+
+There are two ML model that we used and they both have different accuracies and precisions.
+
+
+
+
+
+
+
+
+
+
+
+## Initial Setup fro the web application:
 
 For python setup you can visit here: [here](https://realpython.com/installing-python/)
 
