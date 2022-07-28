@@ -2,7 +2,7 @@
 
 ## Before executing any files,Please download all files and extract accordingly.
 
-There are two ML model that we used and they both have different accuracies and precisions.
+The identification of fraudulent posts on social media has recently attracted attention. Since this underlying prevention method of comparing websites to a list of labelled fake news sources is rigid, a machine learning technique is preferable. Our research aims to leverage Natural Language Processing to detect false news directly from news articles' text content.
 
 
 
