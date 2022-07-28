@@ -4,6 +4,10 @@
 
 The identification of fraudulent posts on social media has recently attracted attention. Since this underlying prevention method of comparing websites to a list of labelled fake news sources is rigid, a machine learning technique is preferable. Our research aims to leverage Natural Language Processing to detect false news directly from news articles' text content.
 
+## Problem Identification
+
+Implement a machine learning algorithm to recognize whenever the news organization is propagating fake news stories. We want to deploy a database of labelled legitimate and false new articles to create a processor that can make information recommendations based on the content of the corpus. Based on many articles emanating from a source, the machine will focus on identifying credible news sources. Once a source is designated as a fake news provider, we may confidently anticipate that any future publications from that source will likewise be completely false. Because we will have many data points from each source, emphasizing on sources enlarge our article misinterpretation sensitivity.
+
 
 
 
